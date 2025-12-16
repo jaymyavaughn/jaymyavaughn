@@ -7,6 +7,8 @@ href="https://www.linkedin.com/in/jaymyavaughn/">Product Manager & Data Analyst<
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
+<h2>📊Product Management Projects:</h2>    
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
