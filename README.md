@@ -4,10 +4,16 @@ href="https://www.linkedin.com/in/jaymyavaughn/">Product Manager & Data Analyst<
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Project</b>
+- <b>💾SQL Projects</b>
   - [Demonstrating SQL Techniques](https://github.com/jaymyavaughn/SQL_Techniques)
+ 
+- <b>💾Advanced SQL Projects</b>
+  - [Demonstrating Advanced SQL Techniques](https://github.com/jaymyavaughn/SQL_Techniques)
 
 <h2>📊Product Management Projects:</h2>    
+
+- <b>💾Product Project</b>
+  - [Demonstrating Product Management Techniques](https://github.com/jaymyavaughn/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
